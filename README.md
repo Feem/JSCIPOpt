@@ -79,3 +79,6 @@ After all previous steps it is now possible to call the function via
 ```
 double ftol = scip.feastol();
 ```
+
+
+initial solution:https://stackoverflow.com/questions/53705002/how-can-i-init-my-presolver-in-python-version-of-scip
