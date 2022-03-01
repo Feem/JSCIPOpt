@@ -85,3 +85,5 @@ FEEM note
 scip free -- multiknapsack
 
 initial solution:https://stackoverflow.com/questions/53705002/how-can-i-init-my-presolver-in-python-version-of-scip
+
+pdf: http://egon.cheme.cmu.edu/ewo/docs/EWO_Seminar_02_13_2015.pdf
